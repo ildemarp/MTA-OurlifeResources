@@ -1,4 +1,4 @@
-O projekcie / About of the project
+O projekcie / About the project
 ====================
 PL:
 - OurLife - innowacyjny projekt RPG na platformie Multi Theft Auto. Projekt, wyznaczający standardy wśród innych serwerów. Repozytorium przechowuje udostępnione publicznie pliki skryptu gry. Powodzenia!
