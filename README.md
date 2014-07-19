@@ -9,5 +9,7 @@ The repository stores the publicly available script files of the game. Enjoy!
 
 Autorzy / Authors
 ====================
-- l0nger <admin@ourlife.pl> lub/or <l0nger.programmer@gmail.com>
-- Pleban (znany również jako/know as lenko) <pleban@ourlife.pl>
+Oprogramowanie (lead programmer): l0nger <admin@ourlife.pl> lub/or <l0nger.programmer@gmail.com>
+Twórca interfesjów 'UI' gry (creating interface 'ui' game): Pleban (znany również jako/know as lenko) <pleban@ourlife.pl>
+
+Dystrybucja na licencji GPLv2.
