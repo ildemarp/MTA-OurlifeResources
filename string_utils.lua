@@ -10,7 +10,7 @@
 	
 	This function replaces all "pattern" names in a string with the value found in a table or a function.	
 ]]
-local function string:interpolate(t, txt, pattern)
+local function string_interpolate(t, txt, pattern)
 	pattern="%" .. pattern or "%$"
 	return (txt:gsub(pattern .. "([%a_][%w_]*)", t))
 end
