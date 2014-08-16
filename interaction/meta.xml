@@ -1,0 +1,28 @@
+<meta>
+	<!-- SERVERSIDE -->
+	
+	<!-- CLIENTSIDE -->
+	<script src="c_utility.lua" type="client" />
+	<script src="c_interaction.lua" type="client" />
+	
+	<!-- EXPORTS -->
+	<script src="exports/client_exports.lua" type="client" />
+	<export function="getActive" type="client" />
+	
+	<!-- FILES -->
+	<file src="img/boxes/b_circle.png" />
+	<file src="img/boxes/b_info.png" />
+	<file src="img/boxes/b_interActual.png" />
+	<file src="img/boxes/b_main.png" />
+	<file src="img/boxes/t_ending.png" />
+	<file src="img/boxes/t_info.png" />
+	
+	<file src="img/icons/i_cart.png" />
+	<file src="img/icons/i_drugs.png" />
+	<file src="img/icons/i_keys.png" />
+	<file src="img/icons/i_mask.png" />
+	<file src="img/icons/i_transaction.png" />
+	
+	<file src="font/kozuka_light.ttf" />
+	<file src="font/mp_regular.ttf" />
+</meta>

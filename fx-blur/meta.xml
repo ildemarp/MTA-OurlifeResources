@@ -1,0 +1,12 @@
+<meta>
+	<!-- CLIENTSIDE -->
+	<script src="c_blur.lua" type="client" />
+	
+	<!-- EXPORT -->
+	<script src="exports/client_exports.lua" type="client" />
+	<export function="toggleBlur" type="client" />
+	
+	<!-- FILES -->
+	<file src="shader/blurV.fx" />
+	<file src="shader/blurH.fx" />
+</meta>
