@@ -45,7 +45,7 @@ interaction.previousCart=1
 interaction.selectedCart=1
 
 local gui={}
-gui.font=dxCreateFont("font/mp_regular.ttf", 12, false)
+gui.font=dxCreateFont("font/mp_regular.ttf", 10*screenRatio, false)
 gui.circles={}
 gui.circlesCreated={[1]=nil, [2]=nil, [3]=nil, [4]=nil, [5]=nil}
 gui.circles.icon={}
